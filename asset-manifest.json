@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.60dc4dd0.chunk.css",
-    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.14a69c41.chunk.js",
-    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.14a69c41.chunk.js.map",
+    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.abb80c2b.chunk.js",
+    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.abb80c2b.chunk.js.map",
     "runtime-main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js",
     "runtime-main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js.map",
     "static/js/2.7e52d376.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.95056b61.js",
     "static/js/2.7e52d376.chunk.js",
     "static/css/main.60dc4dd0.chunk.css",
-    "static/js/main.14a69c41.chunk.js"
+    "static/js/main.abb80c2b.chunk.js"
   ]
 }
