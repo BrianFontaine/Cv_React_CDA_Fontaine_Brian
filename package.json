@@ -2,6 +2,7 @@
   "name": "soluclef-v_2.0.1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://brianfontaine.github.io/Cv_React_CDA_Fontaine_Brian/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
