@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.8b9a192a.chunk.css",
-    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.81e586fb.chunk.js",
-    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.81e586fb.chunk.js.map",
-    "runtime-main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.f1a2934c.js",
-    "runtime-main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.f1a2934c.js.map",
+    "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.623276dd.chunk.css",
+    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.14a69c41.chunk.js",
+    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.14a69c41.chunk.js.map",
+    "runtime-main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js",
+    "runtime-main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js.map",
     "static/js/2.7e52d376.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js",
     "static/js/2.7e52d376.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.map",
-    "static/js/3.513e32d7.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/3.513e32d7.chunk.js",
-    "static/js/3.513e32d7.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/3.513e32d7.chunk.js.map",
+    "static/js/3.3982c873.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/3.3982c873.chunk.js",
+    "static/js/3.3982c873.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/3.3982c873.chunk.js.map",
     "index.html": "/Cv_React_CDA_Fontaine_Brian/index.html",
-    "static/css/main.8b9a192a.chunk.css.map": "/Cv_React_CDA_Fontaine_Brian/static/css/main.8b9a192a.chunk.css.map",
-    "static/js/2.7e52d376.chunk.js.LICENSE.txt": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.LICENSE.txt"
+    "static/css/main.623276dd.chunk.css.map": "/Cv_React_CDA_Fontaine_Brian/static/css/main.623276dd.chunk.css.map",
+    "static/js/2.7e52d376.chunk.js.LICENSE.txt": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.LICENSE.txt",
+    "static/media/EW3A0907.99198570.jpg": "/Cv_React_CDA_Fontaine_Brian/static/media/EW3A0907.99198570.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1a2934c.js",
+    "static/js/runtime-main.95056b61.js",
     "static/js/2.7e52d376.chunk.js",
-    "static/css/main.8b9a192a.chunk.css",
-    "static/js/main.81e586fb.chunk.js"
+    "static/css/main.623276dd.chunk.css",
+    "static/js/main.14a69c41.chunk.js"
   ]
 }
