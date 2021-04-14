@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import Header from './Component/Header/Header';
 import HeaderMobile from './Component/Header/HeaderMobile';
+import IntroductionMobile from './Component/Introduction/IntroductionMobile';
 
 function App() {
   const [change,setChange] = React.useState(false);
@@ -19,8 +20,7 @@ function App() {
   return (
     <div>
         {screen.y > 800 ? <Header></Header> : ""}
-          <h1>Fontaine Brian</h1>
-          <h2>Concepteur développeur d'application</h2>
+        {screen.y > 800 ? "" : <IntroductionMobile></IntroductionMobile>}
         {screen.y < 800 ? <HeaderMobile></HeaderMobile> : ""}
     </div>
   );
