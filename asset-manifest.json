@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.0a0ce3b7.chunk.css",
+    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.81e586fb.chunk.js",
+    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.81e586fb.chunk.js.map",
+    "runtime-main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.f1a2934c.js",
+    "runtime-main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.f1a2934c.js.map",
+    "static/js/2.7e52d376.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js",
+    "static/js/2.7e52d376.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.map",
+    "static/js/3.513e32d7.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/3.513e32d7.chunk.js",
+    "static/js/3.513e32d7.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/3.513e32d7.chunk.js.map",
+    "index.html": "/Cv_React_CDA_Fontaine_Brian/index.html",
+    "static/css/main.0a0ce3b7.chunk.css.map": "/Cv_React_CDA_Fontaine_Brian/static/css/main.0a0ce3b7.chunk.css.map",
+    "static/js/2.7e52d376.chunk.js.LICENSE.txt": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1a2934c.js",
+    "static/js/2.7e52d376.chunk.js",
+    "static/css/main.0a0ce3b7.chunk.css",
+    "static/js/main.81e586fb.chunk.js"
+  ]
+}
