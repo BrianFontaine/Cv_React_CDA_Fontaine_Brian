@@ -14,7 +14,7 @@
 }
 
 .tapBarLight{
-    background-color: #4A54EB;
+    background-color: rgb(120, 120, 255);
     position: fixed;
     bottom: 0%;
     width: 100%;
@@ -45,8 +45,8 @@
 }
 
 .buttonMenuLight{
-    border: 1px solid #656ee6;
-    color: #656ee6;
+    border: 1px solid rgb(120, 120, 255);
+    color: rgb(120, 120, 255);
     padding: 1%;
     border-radius: 50%;
     height: 40px;
