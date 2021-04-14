@@ -1,23 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import Header from './Component/Header/Header';
+import HeaderMobile from './Component/Header/HeaderMobile';
 
 function App() {
+  const [change,setChange] = React.useState(false);
+  const [screen,setScreen] = React.useState({
+    y : window.screen.width,
+    x : window.screen.height
+  });
+
+  React.useEffect(function() {
+    window.addEventListener('resize', function(){
+      setScreen({ y : window.screen.width, x : window.screen.height});
+    });
+  },[change,setChange])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        {screen.y > 800 ? <Header></Header> : ""}
+          <h1>Fontaine Brian</h1>
+          <h2>Concepteur développeur d'application</h2>
+        {screen.y < 800 ? <HeaderMobile></HeaderMobile> : ""}
     </div>
   );
 }

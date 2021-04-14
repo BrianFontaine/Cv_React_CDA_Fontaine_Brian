@@ -1,0 +1,77 @@
+.tapBar{
+    background-color: #1D1061;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    height: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+.tapBarLight{
+    background-color: #4A54EB;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    height: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+
+.button{
+    color: white;
+}
+
+.buttonLight{
+    color: #21266B;
+}
+
+.Light{
+    color: rgb(255, 153, 0);
+}
+.Dark{
+    color: rgb(200, 184, 68);
+}
+
+.buttonMenuLight{
+    border: 1px solid #4A54EB;
+    color: #4A54EB;
+    padding: 1%;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 2px 2px 2px ;
+    margin-bottom: 10%;
+    font-size: 1.5rem;
+}
+
+.buttonMenu{
+    border: 1px solid #21266B;
+    color: #21266B;
+    padding: 1%;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 2px 2px 2px ;
+    margin-bottom: 10%;
+    font-size: 1.5rem;
+}
