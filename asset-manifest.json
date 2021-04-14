@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.44e52d84.chunk.css",
-    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.abb80c2b.chunk.js",
-    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.abb80c2b.chunk.js.map",
+    "main.css": "/Cv_React_CDA_Fontaine_Brian/static/css/main.f08b2f4d.chunk.css",
+    "main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/main.90bc29ec.chunk.js",
+    "main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/main.90bc29ec.chunk.js.map",
     "runtime-main.js": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js",
     "runtime-main.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/runtime-main.95056b61.js.map",
     "static/js/2.7e52d376.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.3982c873.chunk.js": "/Cv_React_CDA_Fontaine_Brian/static/js/3.3982c873.chunk.js",
     "static/js/3.3982c873.chunk.js.map": "/Cv_React_CDA_Fontaine_Brian/static/js/3.3982c873.chunk.js.map",
     "index.html": "/Cv_React_CDA_Fontaine_Brian/index.html",
-    "static/css/main.44e52d84.chunk.css.map": "/Cv_React_CDA_Fontaine_Brian/static/css/main.44e52d84.chunk.css.map",
+    "static/css/main.f08b2f4d.chunk.css.map": "/Cv_React_CDA_Fontaine_Brian/static/css/main.f08b2f4d.chunk.css.map",
     "static/js/2.7e52d376.chunk.js.LICENSE.txt": "/Cv_React_CDA_Fontaine_Brian/static/js/2.7e52d376.chunk.js.LICENSE.txt",
     "static/media/EW3A0907.99198570.jpg": "/Cv_React_CDA_Fontaine_Brian/static/media/EW3A0907.99198570.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.95056b61.js",
     "static/js/2.7e52d376.chunk.js",
-    "static/css/main.44e52d84.chunk.css",
-    "static/js/main.abb80c2b.chunk.js"
+    "static/css/main.f08b2f4d.chunk.css",
+    "static/js/main.90bc29ec.chunk.js"
   ]
 }
